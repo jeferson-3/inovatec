@@ -237,19 +237,19 @@ section .acoes{
 
 }
 
-@media (max-width: 411px){
+@media (max-width: 412px){
   header {
     height: 50px;
     padding-top: 10px;
   }
   header div{
     
-    width: 20rem;
+    width: 18rem;
     margin:  5px auto;
   }
   header div img{
    
-    width: 20rem;
+    width: 18rem;
     border-radius: 5px;
   }
   main{
