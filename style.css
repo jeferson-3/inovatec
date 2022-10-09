@@ -196,17 +196,16 @@ section .acoes .Leitura {
 
 @media (max-width: 711px){
   header {
+    margin-top: 2rem;
     height: 50px;
     padding-top: 10px;
   }
   header div{
-    
-    width: 25rem;
-    margin: auto;
+    width: 23rem;
+    text-align: center;
   }
   header div img{
-   
-    width: 25rem;
+    width: 23rem;
     border-radius: 5px;
   }
   main{
@@ -237,7 +236,7 @@ section .acoes{
 
 }
 
-@media (max-width: 412px){
+@media (max-width: 414px){
   header {
     height: 50px;
     padding-top: 10px;
